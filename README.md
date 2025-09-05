@@ -41,9 +41,6 @@ Language: Python
 # Example (Python)
 from classes import Smartphone
 
-# Example (Python)
-from classes import Smartphone
-
 phone1 = Smartphone("Samsung", "Galaxy S23", 256)
 phone1.display_info()
 phone1.make_call("John")
@@ -55,4 +52,6 @@ Calling John...
 
 # Author
 Enock Michael Kahogo.
+
+
 
